@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Mark Huang Github Stats](https://github-readme-stats.vercel.app/api?username=MarkHershey&show_icons=true&count_private=true&theme=graywhite)
+
+
 <!--
 **MarkHershey/MarkHershey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
