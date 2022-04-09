@@ -1,8 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on DL/CV
+- 😄 Pronouns: he/him
+
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ![Mark Huang Github Stats](https://github-readme-stats.vercel.app/api?username=MarkHershey&show_icons=true&count_private=true&theme=prussian)
+
+
+
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkHershey&langs_count=10&layout=compact&exclude_repo=DH_Project)
