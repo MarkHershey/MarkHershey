@@ -6,6 +6,7 @@
 
 Fun projects:
 
+-   [flow](https://flow.mxshell.dev/): free online interactive Sankey diagram maker with full privacy.
 -   [arxiv-dl](https://github.com/MarkHershey/arxiv-dl): command-line tool to download papers from arXiv.org, CVF Open Access.
 -   [dotfiles](https://github.com/MarkHershey/dotfiles): automatic dotfiles setup + machine configuration script for macOS/Ubuntu. **[Highly Recommended!]**
 -   [mxshell](https://github.com/mxshell/MXStatus): a centralized status monitoring system for Linux servers
